@@ -10,3 +10,8 @@ A clipboard keeper for the tukzedo desktop. It sits in the system tray, keeps wh
 ## Status
 
 Not started. Requirements are in [project/backlog.md](project/backlog.md).
+
+## Copyright and license
+
+> Copyright © 2026 t00mietum (CryptogID: ปʬϝღถɔ4რఠΔթะ9ƾǝu)<br>
+> Licensed under [GNU LGPL v2.1 or later](https://spdx.org/licenses/LGPL-2.1-or-later.html) license. No warranty. See `license.txt`.
